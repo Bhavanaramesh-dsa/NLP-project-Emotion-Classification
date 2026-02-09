@@ -17,10 +17,12 @@ __pycache__/
 # Logs
 *.log
 
-# Large model files (do not push)
+# Ignore transformer training artifacts
+notebooks/transformer_results/
 models/transformer_results/
-models/**/checkpoint-*/
+checkpoint-*/
 *.safetensors
 *.bin
 *.pt
+*.pth
 

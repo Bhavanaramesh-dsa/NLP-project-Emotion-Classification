@@ -1,4 +1,6 @@
-# NLP Graded Project – Emotion Classification
+# NLP-project-Emotion-Classification
+## Team Member: 
+- Bhavana Ramesh
 
 ## Project Overview
 This project explores **emotion classification from tweet texts** using different Natural Language Processing (NLP) models studied during the course.  
